@@ -12,4 +12,5 @@
 	}
 	$c = new $class();
 	$c-> $method();  
+    
 ?>

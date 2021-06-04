@@ -1,13 +1,13 @@
 <?php
 	class User
 	{
-	  public function Login()
+	  public function InicioSesion()
 	  {
-		echo "en login";
+		echo "en Inicio de Sesion";
 	  }
-	  public function Delet()
+	  public function Registrarse()
 	  {
-		echo " en delet";
+		echo " en Registro de datos";
 	  }
 	}
 ?>
